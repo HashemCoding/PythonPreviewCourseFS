@@ -1,0 +1,17 @@
+[
+    {
+        "Fruit": "Orange",
+        "Icon": "\ud83c\udf4a",
+        "German": "Orange"
+    },
+    {
+        "Fruit": "Pineapple",
+        "Icon": "\ud83c\udf4d",
+        "German": "Ananas"
+    },
+    {
+        "Fruit": "Apple",
+        "Icon": "\ud83c\udf4e",
+        "German": "Apfel"
+    }
+]
