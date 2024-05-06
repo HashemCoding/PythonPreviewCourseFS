@@ -1,4 +1,0 @@
-Erstelle eine Klasse Fahrzeug mit den Attributen Marke und Modell. 
-Leite dann zwei Unterklassen Auto und Motorrad von Fahrzeug ab und füge jeweils spezifische Attribute hinzu, 
-wie z.B. Anzahl der Türen oder Hubraum. Erstelle Objekte beider Unterklassen und zeige ihre Eigenschaften an.
-
